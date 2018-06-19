@@ -1,0 +1,31 @@
+{
+  "name": "test1-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "rxjs-compat": "^6.2.1",
+    "rxjs": "^6.2.1",
+    "typescript": "^2.9.2",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olalew/MathCalculatorLib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olalew/MathCalculatorLib/issues"
+  },
+  "homepage": "https://github.com/olalew/MathCalculatorLib#readme"
+}
